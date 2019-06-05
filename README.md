@@ -1,3 +1,8 @@
+# NB
+This repo have been archived for now because it was not possible to transport it to the dracula organisation due to it being forked from the dracula theme template.
+
+Please check out the new repo at https://github.com/dracula/coteditor
+
 # Dracula for [CotEditor](https://coteditor.com)
 
 > A dark theme for [CotEditor](https://coteditor.com).
